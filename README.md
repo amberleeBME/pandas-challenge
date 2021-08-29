@@ -15,8 +15,7 @@ Most purchases were made by players in the 20-24 age range who spent an average 
 
 The top 10 most popular items were purchased 8 or more times. The top 10 most profitable items were also among the top 10 most popular items except 'Glimmer, Ender of the Moon' (purchased 7 times).
 
-|***Top 10 Items By Purchase Count***|
-|--|
+***Top 10 Items By Purchase Count***
 
 |Rank|Item ID|Item Name|Purchase Count|
 |--|--|--|--|
@@ -35,9 +34,8 @@ The top 10 most popular items were purchased 8 or more times. The top 10 most pr
 |7|72|Winter's Bite|8|
 |7|59|Lightning, Etcher of the King|8|
 
----
-|***Top 10 Items By Total Purchase Value***|
-|--|
+
+***Top 10 Items By Total Purchase Value***
 
 |Rank|Item ID|Item Name|Purchase Count|Total Purchase Value ($)|
 |--|--|--|--|--|
