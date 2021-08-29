@@ -13,7 +13,7 @@ Most purchases were made by players in the 20-24 age range who spent an average 
 
 ### Top Items
 
-The top 10 most popular items were purchased 8 or more times. The top 10 most profitable items were also among the top 10 most popular items except 'Glimmer, Ender of the Moon' (purchased 7 times).
+The top 10 most popular items were purchased 8 or more times. The top 10 most profitable items were also among the top 10 most popular items except 'Glimmer, Ender of the Moon' (purchased only 7 times).
 
 ***Top 10 Items By Purchase Count***
 
